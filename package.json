@@ -1,0 +1,22 @@
+{
+  "name": "redux-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarbaraMak85/redux-action.git"
+  },
+  "author": "Barbara Makowiec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BarbaraMak85/redux-action/issues"
+  },
+  "homepage": "https://github.com/BarbaraMak85/redux-action#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
